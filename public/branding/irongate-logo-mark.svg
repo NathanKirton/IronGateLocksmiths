@@ -1,0 +1,17 @@
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Irongate Locksmiths icon</title>
+  <desc id="desc">Shield icon with green key flourish.</desc>
+  <defs>
+    <linearGradient id="greenSweep" x1="108" y1="30" x2="170" y2="170" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#5B9326" />
+      <stop offset="1" stop-color="#427415" />
+    </linearGradient>
+  </defs>
+
+  <path d="M128 20C94 38 60 43 34 44V112C34 174 75 223 128 242C181 223 222 174 222 112V44C196 43 162 38 128 20Z" fill="white" stroke="#232323" stroke-width="14" stroke-linejoin="round"/>
+  <path d="M128 47C104 61 79 66 57 68V112C57 161 89 199 128 218C167 199 199 161 199 112V68C177 66 152 61 128 47Z" fill="white"/>
+  <path d="M162 52C137 71 122 106 113 148C104 191 83 211 53 222" stroke="url(#greenSweep)" stroke-width="19" stroke-linecap="round"/>
+  <path d="M194 55C154 79 133 123 123 171C116 206 100 228 74 242" stroke="url(#greenSweep)" stroke-width="15" stroke-linecap="round"/>
+  <path d="M139 122L168 154M168 154L190 131M168 154L198 184" stroke="#427415" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="199" cy="184" r="11" stroke="#427415" stroke-width="9" fill="white"/>
+</svg>

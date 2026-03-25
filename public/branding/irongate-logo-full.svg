@@ -1,0 +1,25 @@
+<svg width="880" height="180" viewBox="0 0 880 180" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Irongate Locksmiths logo</title>
+  <desc id="desc">Shield with key emblem and Irongate South Shields Locksmith Service wordmark in green and charcoal.</desc>
+  <defs>
+    <linearGradient id="greenSweep" x1="130" y1="10" x2="190" y2="130" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#5B9326" />
+      <stop offset="1" stop-color="#427415" />
+    </linearGradient>
+    <filter id="shadow" x="0" y="0" width="260" height="180" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="6" stdDeviation="4" flood-color="#000" flood-opacity="0.22" />
+    </filter>
+  </defs>
+
+  <g filter="url(#shadow)">
+    <path d="M76 18C55 30 34 33 18 34V77C18 116 43 147 76 162C109 147 134 116 134 77V34C118 33 97 30 76 18Z" fill="white" stroke="#232323" stroke-width="8" stroke-linejoin="round"/>
+    <path d="M76 34C61 43 45 46 31 47V77C31 109 51 134 76 147C101 134 121 109 121 77V47C107 46 91 43 76 34Z" fill="white"/>
+    <path d="M96 38C80 50 70 72 65 101C60 129 47 142 28 148" stroke="url(#greenSweep)" stroke-width="13" stroke-linecap="round"/>
+    <path d="M118 39C93 55 80 83 73 117C68 139 57 154 41 162" stroke="url(#greenSweep)" stroke-width="11" stroke-linecap="round"/>
+    <path d="M82 85L102 108M102 108L117 92M102 108L122 129" stroke="#427415" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="123" cy="129" r="7" stroke="#427415" stroke-width="6" fill="white"/>
+  </g>
+
+  <text x="164" y="90" fill="#427415" font-family="Inter, Arial, sans-serif" font-size="84" font-weight="900" letter-spacing="1">IRONGATE</text>
+  <text x="164" y="137" fill="#232323" font-family="Inter, Arial, sans-serif" font-size="38" font-weight="800" letter-spacing="1">SOUTH SHIELDS LOCKSMITH SERVICE</text>
+</svg>
